@@ -1,0 +1,2 @@
+# README
+This repository contains my personal website. I aimed to keep it very simple and lightweight, which is why I decided to write the HTML by myself without any specific framework. I took inspirations from minimal websites such as the personal pages of [Paris Marx](https://parismarx.com/) and [Thibault Simon](https://thibaultsimon.fr/).
